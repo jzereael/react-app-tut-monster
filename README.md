@@ -13,6 +13,5 @@ Go to https://jsebaltazar.github.io/react-app-tut-monster/
 * [jsonplaceholder](https://jsonplaceholder.typicode.com/) - fake online user data api
 
 
-## Acknowledgments
 
 
